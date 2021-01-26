@@ -21,7 +21,8 @@ Pruning Strategy for TensorFlow 2.x
     result = vanilla_pruning(weight, sparse_ratio)
     print(result)
 ```
-running result:
+
+
 raw weight matrix:
 ``` 
 tf.Tensor(
